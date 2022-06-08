@@ -18,3 +18,12 @@
     background-color: red;
     margin-right: 1em;
 }
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-links li {
+    margin: 0 1em;
+}
